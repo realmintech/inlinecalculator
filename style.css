@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(214, 214, 214);
+}
+
+.container-fluid{
+    margin-top: 90px;
+    max-width: 350px;
+    background-color: green;
+    border-radius: 5%;
+    box-shadow: 5px 5px 12px #6ba9a9, -5px -5px 12px #ffffff;
+}
+
+#demo{
+    margin-top: 50px;
+    height: 70px;
+    margin-left: 8%;
+    width: 80%;
+}
+
+
+button{
+     margin-top: 40px;
+    padding: 20px;
+    
+}
+.btn-group{
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
